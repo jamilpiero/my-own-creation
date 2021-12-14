@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.orange{
+    color:chocolate;
+}
+.hi{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+.khamba{
+    width: 60%;
+    padding-left:1%;
+    padding-top: 3%;
+    padding-right:8%;
+}
+.hamba{
+    display: flex;
+    margin-bottom: 150px;
+}
+.more{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 196, 0),tomato);
+    color: white;
+    font-weight: 850;
+    padding: 8px 30px;
+}
